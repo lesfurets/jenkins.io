@@ -1,0 +1,10 @@
+---
+name: "Ozan Gunalp"
+twitter: ozangunalp
+github: ozangunalp
+blog: 'https://beastie.lesfurets.com'
+---
+
+
+A bio
+---
